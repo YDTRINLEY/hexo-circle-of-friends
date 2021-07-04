@@ -54,10 +54,10 @@ RETRY_MAX = 5
 """
 # github友链配置
 GITHUB_FRIENDS_LINKS = {
-    "enable": False,    # True 开启gitee issue兼容
+    "enable": true,    # True 开启gitee issue兼容
     "type": "normal",  # volantis用户请在这里填写 volantis
-    "owner": "Zfour",  # 填写你的github用户名
-    "repo": "zfour-friends",  # 填写你的github仓库名
+    "owner": "YDTRINLEY",  # 填写你的github用户名
+    "repo": "hexo-circle-of-friends",  # 填写你的github仓库名
     "state": "open"  # 填写抓取的issue状态(open/closed)
 }
 
