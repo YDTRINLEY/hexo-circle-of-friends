@@ -11,11 +11,11 @@ setting:
 #    state: open # 填写抓取的issue状态(open/progressing/closed)
 #
 github_friends_links: # github友链配置
-    enable: true
-    type: normal # volantis用户请在这里填写 volantis
-    owner: YDTRINLEY # 填写你的github用户名
-    repo: hexo-circle-of-friends # 填写你的github仓库名
-    state: open # 填写抓取的issue状态(open/closed)
+  enable: true
+  type: normal # volantis用户请在这里填写 volantis
+  owner: YDTRINLEY # 填写你的github用户名
+  repo: hexo-circle-of-friends # 填写你的github仓库名
+  state: open # 填写抓取的issue状态(open/closed)
 #
 #  block_word: # 屏蔽sitemap链接关键词
 #    - 'index'
